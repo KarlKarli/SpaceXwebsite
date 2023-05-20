@@ -1,0 +1,156 @@
+
+		
+			footer {
+				background-color: black;
+			}
+			#small{
+				Height: 250px;
+				Width: 350px;
+				outline: 8px solid white;
+			}
+			#portrait{
+				Height: 400px;
+				Width: 320px;
+				outline: 14px solid black;
+			}
+			#black{
+				background-color: black;
+				opacity: 80%;
+			}
+			#black2{
+				background-color: black;
+			}
+			#title {
+				color: black;
+				font-size: 30px;
+				font-weight: bold;
+			}
+			#white{
+				box-shadow: 8px 8px black;
+				outline: 12px solid black;
+				width: 500px;
+				font-family: Helvetica;
+				float: left;
+				background-color: white;
+				margin-left: 70px;
+			}
+			#white2{
+				box-shadow: -12px 12px black;
+				outline: 12px solid black;
+				width: 530px;
+				font-family: Helvetica;
+				float: right;
+				background-color: white;
+				margin-top: 110px;
+			}
+			#white3{
+				box-shadow: 9px 8px black;
+				outline: 12px solid black;
+				width: 400px;
+				font-family: Helvetica;
+				margin-top: 440px;
+				margin-left: 150px;
+				background-color: white;
+			}
+			#white4{
+				background-color: white;
+				outline: -3px solid black;
+			}
+			#foot{
+				color: white;
+				font-family: Helvetica;
+				text-decoration: none;
+				opacity: 97%;
+				outline: 20px solid black;
+				
+			}
+			
+			body {
+				background-image: url(wall.png);
+			}
+			p{
+				font-family: Verdana;
+				color: white;
+			}
+			p.black3{
+				font-family: Helvetica;
+				color: black;
+				font-weight: 900;
+				margin: 0 0 0 0;
+				border: 0 0 0 0;
+				padding: 0 0 0 0;
+			}
+			p.black3w{
+				font-family: Helvetica;
+				color: white;
+				font-weight: 900;
+				margin: 0 0 0 0;
+				border: 0 0 0 0;
+				padding: 0 0 0 0;
+			}
+			p.black4{
+				font-family: Helvetica;
+				color: black;
+				font-weight: 900;
+				font-size: 10px;
+			}
+			h3.thick {
+				font-weight: 900;
+			}
+			h1.thick {
+				font-weight: 900;
+				font-family: Helvetica;
+			}
+			h1.thickb {
+				font-weight: 900;
+				font-size: 40px;
+				font-family: Helvetica;
+			}
+			h1.thickw {
+				font-weight: 800;
+				color: white;
+				font-size: 50px;
+				font-family: Helvetica;
+			}
+			h1.thick2 {
+				font-weight: 900;
+				font-size: 80px;
+				margin: 0 0 0 0;
+				border: 0 0 0 0;
+				padding: 0 0 0 0;
+			}
+			h1.thick3 {
+				font-weight: 900;
+				color: white;
+				font-size: 80px;
+				margin: 1 1 1 1;
+				border: 1 1 1 1;
+				padding: 1 1 1 1;
+			}
+			.pic {
+				float: left;
+				Height: 300px;
+				Width: 400px;
+			}
+			#profile {
+				float: left;
+				margin-left: 50px;
+				outline: 20px solid black;
+				background-color: white;
+				margin-top: 50px;
+			}
+			#button {
+				transition-duration: 1s;
+				margin-top:200px;
+				margin-left: 565px;
+				background-color: white;
+				outline: 12px solid black;
+			}
+			#button:hover {
+				background-color: black;
+				color: white;
+			}
+			#input {
+				margin-top: 30px;
+				outline: 7px solid black;
+			}
